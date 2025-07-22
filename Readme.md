@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Наталья Гусева](https://up.htmlacademy.ru/javascript-individual/2/user/923319).
-* Наставник: `Неизвестно`.
+* Наставник: [Давид Чачанов](https://htmlacademy.ru/profile/id2355549).
 
 ---
 
